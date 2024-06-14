@@ -1,0 +1,2 @@
+b.) pods are upgraded few at a time
+pentru ca avem StrategyType: RollingUpdate la deployment
